@@ -1,0 +1,51 @@
+.one{
+    background-color:rgb(180, 176, 176);
+    color:rgb(0, 36, 0);
+    display: flex;
+    justify-content: space-between;
+    
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+input{
+    width:70%;
+    margin: 20px 170px;
+    padding: 5px;
+    
+}
+.main{
+    margin: 20px 200px;
+    text-align: center;
+}
+.three{
+    display: inline-block;
+    height: 400px;
+    width:280px;
+    border:1px solid black;
+}
+.four{
+    display: inline-block;
+    height: 400px;
+    width:280px;
+    border:1px solid black;
+}
+.five{
+    display: inline-block;
+    height: 400px;
+    width:280px;
+    border:1px solid black;
+}
+.bottom{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    padding: 40px;
+}
+.about{
+    text-align: center;
+}
